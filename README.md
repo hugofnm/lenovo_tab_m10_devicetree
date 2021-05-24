@@ -1,7 +1,4 @@
-# device tree for Lenovo Smart Tab M10 wifi (TB-X605F)
-
-## Release info
-This is a work in progress.
+# Device tree for Lenovo Smart Tab M10 wifi (TB-X605F)
 
 ### About Device
 
@@ -35,11 +32,3 @@ audio | 2 x 3W full-range speakers
 microphone | 3 fair-field mics (DSP DBMD5VT181P4BNl)
 bluetooth | Actions Semiconductor ATS2825
 power | 12V 2A
-
-To build:
-
-```
-source build/envsetup.sh
-brunch lineage_X605F-eng
-```
-
